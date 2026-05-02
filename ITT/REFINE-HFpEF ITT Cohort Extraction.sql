@@ -1,4 +1,4 @@
-/* Diabetes HFpEF SGLT2 Study with 2 refills only */
+/* SGLT2i HFpEF Study: Intention-to-treat-like analysis (i.e., removing three consecutive refill prescription requirement; only requiring 1 refill for cohort entry; start follow-up time from date of first prescription */
 
 /* Run the below command to select the required database */
 use ORD_Sundaram_202108013D
